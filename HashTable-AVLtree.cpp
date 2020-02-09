@@ -1,8 +1,5 @@
 /*
  
- Onur Arda Bodur
- Student ID: 23617
- 
  CS300 – Spring 2018-2019 - Sabancı University
  
  Homework #3 – Hashed Dictionary vs. AVL_Tree Dictionary
