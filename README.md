@@ -5,7 +5,7 @@ These are some implementation of useful data structures with example programs us
 # Files
 
  * Stack.cpp
- * BinaryTree (given as a folder since the program needs some input which is given inside folder as well)
+ * AVLTree (given as a folder since the program needs some input which is given inside folder as well)
  * HashTable-AVLtree.cpp
  * Heap.cpp
  
