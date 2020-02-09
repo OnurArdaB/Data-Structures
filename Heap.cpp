@@ -8,14 +8,6 @@
  
  Outputs are named as input_filename.out(.out extension comes after the filename that is asked from the user)
  
- 
- 
- Name:Onur Arda
- Surname:Bodur
- ID:23617
- Username:onurarda
- E-Mail:onurarda@sabanciuniv.edu
- 
  */
 
 #include <iostream>
