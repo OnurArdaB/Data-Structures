@@ -5,11 +5,6 @@
 //  Created by Onur Arda Bodur on 10.03.2019.
 //
 /*
- 
- Name:Onur Arda
- Surname:Bodur
- ID:23617
- 
  - CS300 – Spring 2018-2019 -
  - Sabancı University Homework #1 -
  – The Word Processor -
